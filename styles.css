@@ -16,7 +16,7 @@ body {
 
 ul {
   display: flex;
-  /* added padding-inline-start to overwrite styling issue*/
+  /* added padding-inline-start to overwrite styling issue for some browsers */
   padding-inline-start: 0;
 }
 
