@@ -16,6 +16,8 @@ body {
 
 ul {
   display: flex;
+  /* adding padding-inline-start overwrite to fix strange behaviour */
+  padding-inline-start: 0px;
 }
 
 li {
